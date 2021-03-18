@@ -2,14 +2,12 @@ import firebase from 'firebase';
 require('@firebase/firestore')
 
 var firebaseConfig = {
-    apiKey: "AIzaSyBVdqWajEpMrgN8DcdqhbdUK6AkbGP-g8E",
-    authDomain: "bartar-system.firebaseapp.com",
-    databaseURL: "https://bartar-system.firebaseio.com",
-    projectId: "bartar-system",
-    storageBucket: "bartar-system.appspot.com",
-    messagingSenderId: "573044276501",
-    appId: "1:573044276501:web:f6f2ef6db00ef2683efd1c",
-    measurementId: "G-YWPCLZGHR3"
+    apiKey: "AIzaSyDbiWCit7XRVKJIpUD7tSyRKXEmWRvB5GA",
+    authDomain: "barterapp-d1b4b.firebaseapp.com",
+    projectId: "barterapp-d1b4b",
+    storageBucket: "barterapp-d1b4b.appspot.com",
+    messagingSenderId: "205662274945",
+    appId: "1:205662274945:web:344b51d98f1dd6f9dcd480"
   };
   // Initialize Firebase
 
